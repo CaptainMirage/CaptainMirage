@@ -1,4 +1,4 @@
-# hey, im Codehunter
+# hey, im Captain_Etrigan!
 
 - 💻 im a innocent programmer who likes playing apex legends
 - 🔌 i know Python and HTML, i will learn more in the future (currently learning nothing)
