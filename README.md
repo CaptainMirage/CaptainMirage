@@ -1,7 +1,7 @@
 # hey, im Captain_Etrigan!
 
 - 💻 im a innocent programmer who likes playing apex legends
-- 🔌 i know Python and HTML, i will learn more in the future (currently learning nothing)
+- 🔌 i know Python, SCC and HTML, i will learn more in the future (currently learning nothing)
 - 📲 i would like to meet another programmer and program stuff togehter
 - 📡 i am not an expert so dont even try to laugh at my code
 - 💞 i am in a relationship and its a serious one soo...
