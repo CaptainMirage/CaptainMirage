@@ -9,7 +9,7 @@
 
 check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLeJ3THdwA) plz! (i upload apex gameplay vids)
 
->My discord ID : Captain_Blamboozle#6650
+>My discord ID : Captain_Etrigan#6650
 >--
 >if you wanna talk i'll be there
 >
