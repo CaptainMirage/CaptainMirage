@@ -1,9 +1,9 @@
 # hey, im Captain_Etrigan!
 
 - 💻 im a innocent programmer who likes playing apex legends
-- 🔌 i know Python and HTML i will learn more in the future (currently learning javascript)
+- 🔌 i know Python and HTML i will learn more in the future (currently learning C++)
 - 📲 i would like to meet another programmer and program stuff togehter
-- 📡 i am not an expert so dont even try to laugh at my code
+- 📡 i am not an expert so im not as good as others
 - 💞 i am single lol
 - 🎮 PSN : MrEtrigan (if you wanna play i'll be there :) )
 
