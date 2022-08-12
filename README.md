@@ -1,7 +1,7 @@
-# hey, im Captain_Etrigan!
+# hey, im Captain Mirage!
 
-- 💻 im a programmer who likes playing apex legends
-- 🔌 i know Python, HTM & CSS,  i will learn more in the future (currently learning C++)
+- 💻 im a 15 years old programmer who likes playing apex legends
+- 🔌 i know Python, HTM & CSS, i will learn more in the future (currently learning C++)
 - 📲 i would like to meet another programmers and program stuff with them
 - 📡 i am not an expert but im good, YEA IM GOOD
 - 💞 i have a bbf and i dont need anyone else
