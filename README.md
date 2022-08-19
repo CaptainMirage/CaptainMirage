@@ -4,7 +4,7 @@
 - 🔌 i know Python, HTM & CSS, i will learn more in the future (currently learning C++)
 - 📲 i would like to meet another programmers and program stuff with them
 - 📡 i am not an expert but im good, YEA IM GOOD
-- 💞 i have a bbf and i dont need anyone else
+- 💞 meh
 - 🎮 PSN : MrEtrigan (if you wanna play apex i'll be there :) )
 
 check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLeJ3THdwA) plz! (i upload apex gameplay vids)
