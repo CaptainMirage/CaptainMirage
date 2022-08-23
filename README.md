@@ -3,7 +3,7 @@
 - 💻 im a 15 years old programmer who likes playing apex legends
 - 🔌 i know Python, HTM & CSS, i will learn more in the future (currently learning C++)
 - 📲 i would like to meet another programmers and program stuff with them
-- 📡 i am not an expert but im good, YEA IM GOOD
+- 📡 i am not an expert but im good, and i look good~ *wink*
 - 💞 meh
 - 🎮 PSN : MrEtrigan (if you wanna play apex i'll be there :) )
 
