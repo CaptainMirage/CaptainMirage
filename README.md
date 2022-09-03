@@ -7,7 +7,7 @@
 - 💞 wraith is mad at me i think
 - 🎮 PSN : MrEtrigan (if you wanna play apex i'll be there :) )
 
-check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLeJ3THdwA) plz! (i upload apex gameplay vids)
+Also check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLeJ3THdwA)! (i upload apex gameplay vids)
 
 >My discord ID : Captain_Mιɾαɠҽ#6650
 >--
