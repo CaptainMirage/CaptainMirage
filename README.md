@@ -13,3 +13,6 @@ Also check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYy
 >if you wanna talk i'll be there
 >
 >most likely i will be coding and gaming
+
+
+>Stats
