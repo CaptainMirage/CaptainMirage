@@ -1,7 +1,7 @@
 # hey lads, im Captain Mirage! <div align="right">![](https://komarev.com/ghpvc/?username=CaptainMirage&color=cadb30&style=flat-square) </div>
 
 
-- 💻 im a 15 years old programmer who likes playing apex legends
+- 💻 im a 16 years old programmer who likes playing apex legends
 - 🔌 i know Python, HTML & CSS, i will learn more in the future (currently learning C++)
 - 📡 i am not an expert but im good, and i look good~
 - 💞 wraith is mad at me i think
