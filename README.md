@@ -1,4 +1,4 @@
-# hey lads, im Captain Mirage! <div align="right">![](https://komarev.com/ghpvc/?username=CaptainMirage&color=cadb30&style=flat-square) </div>
+# hey lads, im Captain Mirage! <div align="right">![](https://komarev.com/ghpvc/?username=CaptainMirage&color=06BBE3&style=flat-square) </div>
 
 
 - 💻 im a 16 years old programmer who likes playing apex legends
