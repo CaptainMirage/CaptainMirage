@@ -3,7 +3,7 @@
 
 - 💻 Im a 15 years old programmer who loves playing apex legends
 - 🛠 I have learned Python, C#, C++, C
-- 🏴󠁳󠁳󠁵󠁹󠁿 I make games in Unity
+- 🏴󠁳󠁳󠁵󠁹󠁿 I make games in Unity Check them out in my itch.io page!
 - 📡 i am not an expert but im good, and i look good~
 - 💞 Im not single, i have me, myself and I... yea im single
 - 🎮 PSN : MrEtrigan (if you wanna play apex i'll be there)
