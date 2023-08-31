@@ -13,10 +13,8 @@ Check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLe
 
 ----
 
->## currently working on a 2D Unity Project
-and this time its no simple 2D game, im making it good and look good, just like me
-
-new futures: **death**
+>## Play Foxy's Adventure on itch.io!
+play it now on itch.io u can find the link in my bio
 
 ----
 
