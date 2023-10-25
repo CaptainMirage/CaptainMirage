@@ -2,8 +2,9 @@
 
 
 - 💻 a 16 years old programmer 
-- 🛠 I know Python, C#, C++, kotlin
+- 🛠  I know Python, C#, C++, kotlin
 - 🏴󠁳󠁳󠁵󠁹󠁿 I make games in Unity Check them out in my itch.io page!
+- 🏴‍☠️ Some random guy from Captain's Deck Entertainment
 - 📡 i am not an expert but im good, and i look good~
 - 🧧 If you wanna talk check my [Discord Profile](https://discord.com/users/627924818037309470) (tell me if you came from my github page)
 
