@@ -20,7 +20,7 @@ I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world 
 
 ## Let's Connect
 
-📧 Reach out to me at your@email.com if you have any questions or just want to chat. I'm always here for my fellow fans! specially you mom
+📧 Reach out to me at elliottwittdamirage@gmail.com if you have any questions or just want to chat. I'm always here for my fellow fans! specially you mom
 
 ---
 
