@@ -18,8 +18,8 @@ Check out my [Youtube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLe
 > You can enjoy this totally relaxing and adorable game by clicking [here](https://captain-mirage.itch.io/foxys-adventure)!
 
 ---
-
 **Stats**
+
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
