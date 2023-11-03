@@ -18,7 +18,7 @@ I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world 
 
 📚 I'm also diving into the world of AI and Machine Learning. The future is exciting, and I am going to be at the forefront.
 
-## Let's Connect
+## Lets talk and have a drink!
 
 📧 Reach out to me at elliottwittdamirage@gmail.com if you have any questions or just want to chat. I'm always here for my fellow fans! specially you mom
 
