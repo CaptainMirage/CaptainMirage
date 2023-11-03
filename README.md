@@ -16,7 +16,7 @@ I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world 
 
 🚀 Right now, I'm working on Captain's Shanty, which is a youtube video downloader! Keep an eye out for it.
 
-📚 I'm also diving into the world of AI and Machine Learning. The future is exciting, and I am going to be at the forefront.
+📚 I'm also making an AI that is kind of jarvis kind of not, just trying to make a cortana kind of thing for windows
 
 ## Lets talk and have a drink!
 
