@@ -4,7 +4,7 @@ I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world 
 
 🛠️ In my toolkit, I've got Python, C#, C++, JavaScript, TypeScript, and a hint of Kotlin. Just like in the arena, I'm here to bamboozle code like I bamboozle my enemies!
 
-🎮 When I'm not bamboozling legends in the arena, I'm crafting epic games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/), where I sprinkle a little Mirage magic!
+🎮 When I'm not bamboozling legends in the arena (RIP arenas), I'm crafting epic games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/), where I sprinkle a little Mirage magic!
 
 🏴‍☠️ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making legendary games and, well, being legends ourselves. It's all in a day's work for a guy as charming as me!
 
