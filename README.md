@@ -1,16 +1,16 @@
-# 🎩 Hey there, legends, it's me, the one and only Mirage!
+# 🎩 Hey there, fellow dev, im Mirage!
 
-I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world of Apex Legends! You know, the game where I'm the life of the party!
+🛠️ I work with Python, C#, C++, Java, and a bit of Kotlin.
 
-🛠️ I know Python, C#, C++, JavaScript, TypeScript, and a bit of Kotlin.
+🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/), where I sprinkle a little Mirage lore too!
 
-🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/), where I sprinkle a little Mirage magic!
-
-🏴‍☠️ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making totally awesome & legendary games and [insert cool reason here].
+🏴‍☠️ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making totally awesome games and [insert cool reason here].
 
 📡 Okay, maybe I'm not an expert programmer, but I'm definitely "the goodest".
 
-📺 Be sure to swing by my [YouTube Channel](https://www.youtube.com/channel/UCEi1Yl_QpYygxaLeJ3THdwA) for vlogs, gaming content, and all the hilarious antics!
+📺 Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) for vlogs, devlogs and other funny stuff!
+
+📺 Also check out my [Gaming YouTube Channel](https://www.youtube.com/@CaptMirage) for vlogs (maybe), gaming content, and hilarious stuff.
 
 ## Current Projects
 
@@ -18,7 +18,7 @@ I'm the fan-favorite, devilishly handsome guy from the adrenaline-pumping world 
 
 ## Let's talk and have a drink!
 
-📧 Reach out to me at elliottwittdamirage@gmail.com if you have any questions or just want to chat. I'm always here for my fellow fans! specially you, mom.
+📧 Reach out to me at elliottwittdamirage@gmail.com if you have any questions or just want to chat. I'm always here for my fellow fans!
 
 ---
 
