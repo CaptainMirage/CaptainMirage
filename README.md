@@ -1,4 +1,4 @@
-# 🎩 Hey there, fellow dev, my name is Kami!
+# 🎩 Hey there, my name is Kami!
 
 🛠️ I work with Python, C#, C++, Java and rust.
 
