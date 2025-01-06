@@ -1,6 +1,6 @@
 # 🎩 Hey there, my name is Kami!
 
-🛠️ I work with Python, C#, C++, Java and rust.
+🛠️ I work with Python, C#, C++, C and rust.
 
 🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/), (currently only foxy is there and i cant be ducked to update it)
 
