@@ -27,4 +27,4 @@ Play this totally relaxing and adorable indev game by clicking [right on me!!](h
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 
-P.S. "Broken games are always the best games"
+P.S. "YOU CLOSE?? YOU CLOSE??"
