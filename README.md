@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-🚀 Right now, I'm working on Mirage's Mixtape, which is a YouTube video downloader! Keep an eye out for it.
+🚀 not much is going on right now, just working on my rust skills
 
 ### 🦊 check out my broken game, "Foxy's Adventure".
 Play this totally relaxing and adorable indev game by clicking [right on me!!](https://captain-mirage.itch.io/foxys-adventure)
