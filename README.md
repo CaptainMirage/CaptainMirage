@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-🚀 not much is going on right now, just working on my rust skills
+🚀 not much is going on right now, just working on my rust skills, also updating repos here and there
 
 ### 🦊 check out my broken game, "Foxy's Adventure".
 Play this totally relaxing and adorable indev game by clicking [right on me!!](https://captain-mirage.itch.io/foxys-adventure)
