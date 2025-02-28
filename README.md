@@ -18,10 +18,7 @@
 
 ## Current Projects
 
-🚀 not much is going on right now, just working on my rust skills, also updating repos here and there
-
-### 🦊 check out my broken game, "Foxy's Adventure".
-Play this totally relaxing and adorable indev game by clicking [right on me!!](https://captain-mirage.itch.io/foxys-adventure)
+🚀 [insert bullet here]
 
 #
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
