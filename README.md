@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-🚀 [insert bullet here]
+🚀 working on some sh*t, check my activity, if nothing is going on im making a game
 
 #
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
