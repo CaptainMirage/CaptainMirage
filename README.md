@@ -12,7 +12,7 @@
 
 ## Let's talk and whatnot!
 
-📫 Reach out to me at KamiLockwood@proton.me and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
+📫 Reach out to me at CaptainDecoys@proton.me and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
 ## Current Projects
 
