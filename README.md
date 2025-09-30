@@ -1,4 +1,4 @@
-# 🏴‍☠️ Hey there, my name is Mirage!
+# 🏴‍☠️ Hey there, my name is kami!
 
 🛠️ I work with Python, C#, C++, C and rust.
 
