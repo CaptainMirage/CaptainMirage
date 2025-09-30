@@ -12,11 +12,11 @@
 
 ## Let's talk and whatnot!
 
-📫 Reach out to me at elliottwittdamirage@gmail.com and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans! (i totally answer in time and check my gmail)
+📫 Reach out to me at KamiLockwood@proton.me and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
 ## Current Projects
 
-🚀 working on something probably, check my activity, if nothing is going on there it means im making a game and cant be f**ked updating my readme everyday
+🚀 working on something probably, check my activity, if nothing is going on there it means im making a game and cant be bothered updating my readme everyday
 
 #
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
