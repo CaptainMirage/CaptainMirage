@@ -2,7 +2,7 @@
 
 🛠️ I work with Python, C#, C++, C and rust.
 
-🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (Foxy's Adventure 1.2.0 is out!)
+🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (currently really empty, unless i forgot i made this comment and it isnt anymore)
 
 ⚓ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
 
