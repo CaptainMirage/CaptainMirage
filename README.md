@@ -6,7 +6,7 @@
 
 ⚓ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
 
-🎛️ Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) for devlogs and other funny stuff!
+🎛️ Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) for devlogs and that come out once every 2 years!
 
 📺 Also check out my [Gaming YouTube Channel](https://www.youtube.com/@CaptMirage) for vlogs (maybe), gaming content that is only containing apex currently (once every decade)!
 
@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-🚀 working on something probably, check my activity, if nothing is going on there it means im making a game and cant be bothered updating my readme everyday
+🚀 working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently working on my project for 20 second gamejam, check them out they are some lovely people)
 
 #
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
