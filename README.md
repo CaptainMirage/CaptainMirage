@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-🚀 working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently working on my project for 20 second gamejam, check them out they are some lovely people)
+🚀 working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
 
 #
 ![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
