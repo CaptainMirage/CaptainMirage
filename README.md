@@ -1,27 +1,24 @@
-# 🏴‍☠️ Hey there, my name is kami!
+# Hey there, my name is kami!
 
-🛠️ I work with Rust, C#, C++, C, Java, Python.
+I work with Rust, C#, C++, C, Java, Python.
 
-🎮 I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (currently really empty, unless i forgot i made this comment and it isnt anymore)
+I make games in Unity. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (there is some cool stuff there)
 
-⚓ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
+I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
 
-🎛️ Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) for devlogs and that come out once every 2 years!
+Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) and [the other YouTube Channel](https://www.youtube.com/@CaptMirage) for devlogs, gaming content, and other stuff that come out once every 2 years!
 
-📺 Also check out my [Gaming YouTube Channel](https://www.youtube.com/@CaptMirage) for vlogs (maybe), gaming content that is only containing apex currently (once every decade)!
+## reach me
 
-## Let's talk and whatnot!
+Reach out to me at CaptainDecoys@proton.me and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
-📫 Reach out to me at CaptainDecoys@proton.me and or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
+## what i'm up to
 
-## Current Projects
-
-🚀 working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
+working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
 
 [Play SpeedRobber on Itch.io now!](https://captain-mirage.itch.io/speedrobber)
 
 ![](https://github-readme-stats.shion.dev/api?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&hide=stars&show=prs_merged,prs_merged_percentage)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=CaptainMirage&theme=gotham&hide_border=false)
 
 P.S. "YOU CLOSE?? YOU CLOSE??"
