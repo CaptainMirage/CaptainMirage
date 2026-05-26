@@ -20,8 +20,11 @@
 
 [Play SpeedRobber on Itch.io now!](https://captain-mirage.itch.io/speedrobber)
 
-#
-![Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainMirage&theme=gotham&show_icons=true)  [![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainMirage&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#
+## stats
+![](https://github-readme-stats.shion.dev/api?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=CaptainMirage&theme=gotham&hide_border=false)
 
 P.S. "YOU CLOSE?? YOU CLOSE??"
+
+![Visitor Count](https://komarev.com/ghpvc/?username=CaptainMirage&label=Profile+Views&color=0e75b6&style=flat)
