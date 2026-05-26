@@ -26,5 +26,3 @@
 ![](https://streak-stats.demolab.com/?user=CaptainMirage&theme=gotham&hide_border=false)
 
 P.S. "YOU CLOSE?? YOU CLOSE??"
-
-![Visitor Count](https://komarev.com/ghpvc/?username=CaptainMirage&label=Profile+Views&color=0e75b6&style=flat)
