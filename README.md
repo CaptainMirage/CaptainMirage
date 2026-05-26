@@ -20,8 +20,7 @@
 
 [Play SpeedRobber on Itch.io now!](https://captain-mirage.itch.io/speedrobber)
 
-## stats
-![](https://github-readme-stats.shion.dev/api?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&hide=stars&show=prs_merged,prs_merged_percentage)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=CaptainMirage&theme=gotham&hide_border=false)
 
