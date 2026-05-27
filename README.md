@@ -1,3 +1,6 @@
+![banner-cp-ghdark](https://github.com/user-attachments/assets/894be061-b244-45c0-8f36-87d269d7299d#gh-dark-mode-only)
+![banner-cp-ghlight](https://github.com/user-attachments/assets/68792cc0-aaa3-479d-8eec-a0939833c53b#gh-light-mode-only)
+
 I work with **Rust**, C#, C++, C, Java, Python.
 
 I make games in **Unity**. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (there is some cool stuff in there)
