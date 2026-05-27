@@ -12,12 +12,18 @@ I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainm
 Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) and [the other YouTube Channel](https://www.youtube.com/@CaptMirage) for devlogs, gaming content, and other stuff that come out once every 2 years!
 
 <img width="350" alt="banner-od-ghdark" src="https://github.com/user-attachments/assets/f088c062-ee18-4755-9b00-89fa73ee8c2c#gh-dark-mode-only" />
-<img width="350" alt="banner-od-ghlight" src="https://github.com/user-attachments/assets/c18b18f5-5dc1-4465-9abb-63abdd40e2f9#gh-light-mode-only" />
+<img width="350" alt="banner-od-ghlight" src="https://github.com/user-attachments/assets/c18b18f5-5dc1-4465-9abb-63abdd40e2f9#gh-light-mode-only" /><br>
+
+<img width="700" alt="banner-line-ghdark" src="https://github.com/user-attachments/assets/c0f4eafa-e390-4a56-9895-2ddac662d40f#gh-dark-mode-only" />
+<img width="700" alt="banner-line-ghlight" src="https://github.com/user-attachments/assets/c5b6726e-1caf-4a05-ad28-fdd6a080e2ce#gh-light-mode-only" />
 
 Reach out to me at CaptainDecoys@proton.me and/or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
 <img width="350" alt="banner-ondk-ghdark" src="https://github.com/user-attachments/assets/e0d5f821-b3d2-45e7-8846-ebbdee321cd8#gh-dark-mode-only" />
-<img width="350" alt="banner-ondk-ghlight" src="https://github.com/user-attachments/assets/16bed83c-f564-4a1f-8f2a-05ef5b575c82#gh-light-mode-only" />
+<img width="350" alt="banner-ondk-ghlight" src="https://github.com/user-attachments/assets/16bed83c-f564-4a1f-8f2a-05ef5b575c82#gh-light-mode-only" /><br>
+
+<img width="700" alt="banner-line-ghdark" src="https://github.com/user-attachments/assets/c0f4eafa-e390-4a56-9895-2ddac662d40f#gh-dark-mode-only" />
+<img width="700" alt="banner-line-ghlight" src="https://github.com/user-attachments/assets/c5b6726e-1caf-4a05-ad28-fdd6a080e2ce#gh-light-mode-only" />
 
 working on some project probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
 
