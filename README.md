@@ -15,9 +15,9 @@ Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMir
 
 Reach out to me at CaptainDecoys@proton.me and/or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
-## what i'm up to
+## whats on deck
 
-working on something probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
+working on some project probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
 
 Also building something new, a first-person parkour game. More on that when it's ready.
 
