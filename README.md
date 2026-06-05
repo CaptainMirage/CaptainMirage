@@ -35,4 +35,4 @@ Also building something new, a first-person parkour game. More on that when it's
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaptainMirage&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-P.S. "YOU CLOSE?? YOU CLOSE??"
+Culture shouldn't exist only for those who can afford it
