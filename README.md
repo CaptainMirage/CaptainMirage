@@ -5,7 +5,7 @@ I work with **Rust**, C#, C++, C, Java, Python
 
 I make games in **Unity**. Check them out on my [itch.io page](https://captain-mirage.itch.io/). (there is some cool stuff in there)
 
-I also dabble in **networking** when i need to and **lower-level systems** stuff whenever i feel like it.
+I also dabble in **networking** when i need to and **lower-level systems** stuff whenever i feel like it
 
 I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
 
