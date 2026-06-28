@@ -7,7 +7,7 @@ I make games in **Unity**. Check them out on my [itch.io page](https://captain-m
 
 I also dabble in **networking** when i need to and **lower-level systems** stuff whenever i feel like it
 
-I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games.
+I'm the incredibly handsome and charismatic founder of Captain's Deck Entertainment, and we're famous for two things: making broken games and breaking our own games
 
 Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMirage) and [the other YouTube Channel](https://www.youtube.com/@CaptMirage) for devlogs, gaming content, and other stuff that come out once every 2 years!
 
