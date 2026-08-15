@@ -27,7 +27,7 @@ Reach out to me at CaptainDecoys@proton.me and/or captainmirage on discord if yo
 
 working on some project probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
 
-Also building something new, a first-person parkour game. More on that when it's ready.
+Also building something new, a first-person parkour game. More on that when it's ready[.](https://www.youtube.com/watch?v=fRepPqeH0fQ)
 
 [Play SpeedRobber on Itch.io now!](https://captain-mirage.itch.io/speedrobber)
 
