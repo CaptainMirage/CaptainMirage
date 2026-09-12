@@ -17,7 +17,7 @@ Be sure to swing by my [Dev YouTube Channel](https://www.youtube.com/@CaptainMir
 <img width="650" alt="banner-line-ghdark" src="https://github.com/user-attachments/assets/c0f4eafa-e390-4a56-9895-2ddac662d40f#gh-dark-mode-only" />
 <img width="650" alt="banner-line-ghlight" src="https://github.com/user-attachments/assets/c5b6726e-1caf-4a05-ad28-fdd6a080e2ce#gh-light-mode-only" />
 
-Reach out to me at CaptainDecoys@proton.me and/or captainmirage on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
+Reach out to me at CaptainDecoys@proton.me and/or `captainmirage` on discord if you have any questions or just want to chat. I'm always here for my fellow fans!
 
 <img width="310" alt="banner-ondk-ghdark" src="https://github.com/user-attachments/assets/e0d5f821-b3d2-45e7-8846-ebbdee321cd8#gh-dark-mode-only" />
 <img width="310" alt="banner-ondk-ghlight" src="https://github.com/user-attachments/assets/16bed83c-f564-4a1f-8f2a-05ef5b575c82#gh-light-mode-only" /><br>
