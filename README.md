@@ -25,9 +25,9 @@ Reach out to me at CaptainDecoys@proton.me and/or `captainmirage` on discord if 
 <img width="650" alt="banner-line-ghdark" src="https://github.com/user-attachments/assets/c0f4eafa-e390-4a56-9895-2ddac662d40f#gh-dark-mode-only" />
 <img width="650" alt="banner-line-ghlight" src="https://github.com/user-attachments/assets/c5b6726e-1caf-4a05-ad28-fdd6a080e2ce#gh-light-mode-only" />
 
-working on some project probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (currently done with my 20 second game jam! go check it out!)
+working on some project probably, check my activity, if nothing is going on there it means im making a game on unity or unreal and cant be bothered updating my readme every day (latest game project being my 20 second game jam! go check it out!)
 
-Also building something new, a first-person parkour game. More on that when it's ready[.](https://www.youtube.com/watch?v=fRepPqeH0fQ)
+currently working on something, a first-person parkour game something something. More on that when it's ready[.](https://www.youtube.com/watch?v=fRepPqeH0fQ)
 
 [Play SpeedRobber on Itch.io now!](https://captain-mirage.itch.io/speedrobber)
 
